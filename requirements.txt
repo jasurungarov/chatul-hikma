@@ -1,6 +1,8 @@
-python-telegram-bot==20.7
-python-dotenv
+# This file is used to specify the dependencies for the project.
+python-telegram-bot==20.3
 openai
 pymongo
-apscheduler
 requests
+apscheduler
+nest_asyncio
+python-dotenv
