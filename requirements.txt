@@ -6,3 +6,4 @@ requests
 apscheduler
 nest_asyncio
 python-dotenv
+certifi
